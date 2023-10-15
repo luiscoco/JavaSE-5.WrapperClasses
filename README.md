@@ -50,7 +50,7 @@ Unboxing is the process of converting a wrapper class object to its primitive ty
 
 Wrapper classes are useful when you need to treat primitive types as objects. They also provide utility methods for converting between primitive types and strings, among other things.
 
-## Autoboxing
+### Autoboxing
 
 Definition: Autoboxing is the automatic conversion of a primitive type to its corresponding wrapper class object.
 
